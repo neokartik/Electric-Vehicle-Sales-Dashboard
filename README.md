@@ -53,6 +53,9 @@ The insights from this analysis will be presented in:
 - **Python (Pandas)**: For data cleaning, preprocessing, and advanced analysis.
 - **Excel**: For initial data exploration and reports.
 
+## Dashboard live link
+  https://app.powerbi.com/view?r=eyJrIjoiMjcyZWQ3M2YtNTIzZi00YmEwLTgwNzAtZGRkZmUwMzAyOTI2IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
+
 ## 📝 Author 
 Kartik Raghuwanshi 
    
