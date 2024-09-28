@@ -53,7 +53,7 @@ The insights from this analysis will be presented in:
 - **Excel**: For initial data exploration and reports.
 
 ## Dashboard live link
-  https://app.powerbi.com/view?r=eyJrIjoiMjcyZWQ3M2YtNTIzZi00YmEwLTgwNzAtZGRkZmUwMzAyOTI2IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
+  https://app.powerbi.com/view?r=eyJrIjoiOTVmYjBlYmYtY2ExZC00OWY2LWFjNTYtMmU4MjhmOTI4M2RlIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
 
 ## 📝 Author 
 Kartik Raghuwanshi 
