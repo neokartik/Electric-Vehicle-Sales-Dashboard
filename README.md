@@ -49,8 +49,7 @@ The insights from this analysis will be presented in:
 ## ⚙️ Tools & Technologies
 
 - **Power BI**: For interactive dashboards and visual insights.
-- **SQL**: To query and analyze sales data.
-- **Python (Pandas)**: For data cleaning, preprocessing, and advanced analysis.
+- **Power Query**: For Data cleaning, transformation etc.
 - **Excel**: For initial data exploration and reports.
 
 ## Dashboard live link
